@@ -28,7 +28,8 @@ monopoly = {
   :railroads => {
     :pieces => 4, 
     :names => {
-      :reading_railroad => {}
+      :reading_railroad => {},
+      :pensylvania_railroad => {}
     },
     :rent_in_dollars => {
       :one_piece_owned => 25,
